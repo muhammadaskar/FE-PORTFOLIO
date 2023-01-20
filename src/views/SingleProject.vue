@@ -26,41 +26,41 @@ export default {
 					title: 'Kabul Project Management UI',
 					img: require('@/assets/images/ui-project-1.jpg'),
 				},
-				{
-					id: 2,
-					title: 'Kabul Project Management UI',
-					img: require('@/assets/images/web-project-2.jpg'),
-				},
-				{
-					id: 3,
-					title: 'Kabul Project Management UI',
-					img: require('@/assets/images/mobile-project-2.jpg'),
-				},
+				// {
+				// 	id: 2,
+				// 	title: 'Kabul Project Management UI',
+				// 	img: require('@/assets/images/web-project-2.jpg'),
+				// },
+				// {
+				// 	id: 3,
+				// 	title: 'Kabul Project Management UI',
+				// 	img: require('@/assets/images/mobile-project-2.jpg'),
+				// },
 			],
 			projectInfo: {
 				clientHeading: 'About Client',
-				companyInfos: [
-					{
-						id: 1,
-						title: 'Name',
-						details: 'Company Ltd',
-					},
-					{
-						id: 2,
-						title: 'Services',
-						details: 'UI Design & Frontend Development',
-					},
-					{
-						id: 3,
-						title: 'Website',
-						details: 'https://company.com',
-					},
-					{
-						id: 4,
-						title: 'Phone',
-						details: '555 8888 888',
-					},
-				],
+				// companyInfos: [
+				// 	{
+				// 		id: 1,
+				// 		title: 'Name',
+				// 		details: 'Company Ltd',
+				// 	},
+				// 	{
+				// 		id: 2,
+				// 		title: 'Services',
+				// 		details: 'UI Design & Frontend Development',
+				// 	},
+				// 	{
+				// 		id: 3,
+				// 		title: 'Website',
+				// 		details: 'https://company.com',
+				// 	},
+				// 	{
+				// 		id: 4,
+				// 		title: 'Phone',
+				// 		details: '555 8888 888',
+				// 	},
+				// ],
 				objectivesHeading: 'Objective',
 				objectivesDetails:
 					'Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio, natus! Quibusdam enim quod in esse, mollitia molestias incidunt quas ipsa accusamus veniam.',
@@ -187,4 +187,6 @@ export default {
 	</div>
 </template>
 
-<style scoped></style>
+<style scoped>
+
+</style>

@@ -1,4 +1,5 @@
 import { createApp } from 'vue';
+import store from './store';
 import App from './App.vue';
 import router from './router';
 import './assets/css/app.css';
@@ -8,6 +9,7 @@ const feather = require('feather-icons');
 feather.replace();
 
 createApp(App)
+	.use(store)
 	.use(router)
 	.use(BackToTop)
 	.mount('#app');
