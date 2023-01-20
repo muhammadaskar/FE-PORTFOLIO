@@ -6,12 +6,17 @@ export default {
 				{
 					id: 1,
 					bio:
-						'Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nihil vel illum asperiores dignissimos cumque quibusdam et fugiat voluptatem nobis suscipit explicabo, eaque consequatur nesciunt, fugit eligendi corporis laudantium adipisci soluta? Lorem ipsum, dolor sit amet consectetur adipisicing elit. Incidunt totam dolorum, ducimus obcaecati, voluptas facilis molestias nobis ut quam natus similique inventore excepturi optio ipsa deleniti fugit illo. Unde, amet! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsum illo necessitatibus perspiciatis! Aperiam perferendis labore temporibus, eos culpa corporis recusandae quas, fuga voluptatibus nesciunt odit libero tenetur neque consequatur ea.',
+						'I am a fresh graduate from the Information Systems department who has had various experiences. From 2021 to 2022, I was given the mandate as General Chairman of the student community from South Sulawesi at Brawijaya University, Malang.',
 				},
 				{
 					id: 2,
 					bio:
-						'Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nihil vel illum asperiores dignissimos cumque quibusdam et fugiat voluptatem nobis suscipit explicabo, eaque consequatur nesciunt, fugit eligendi corporis laudantium adipisci soluta?',
+						'As an active student, I ve been a Practicum or Laboratory Assistant at the Faculty of Computer Science for 1 year. As a practicum assistant, I was entrusted with the Java Basic Programming course and the SQL Database System course.',
+				},
+				{
+					id: 3,
+					bio:
+						'During this pandemic starting from 2 years I have completed several software based projects. I am very interested in the field of software development, especially from the backend side. Through this experience, I realized that software engineering is the right way to provide solutions related to current technological developments.',
 				},
 			],
 		};
